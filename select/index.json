@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Homesick",
+  "base_artist": "Anly",
+  "createdAt": "2025-12-16T15:34:34.533109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/01_Homesick_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/02_Homesick_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tennessee Homesick Blues",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/03_Tennessee_Homesick_Blues_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Subterranean Homesick Alien",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_Subterranean_Homesick_Alien_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Subterranean Homesick Alien",
+      "artist": "Rockabye Baby!",
+      "has_synced": false,
+      "path": "select/05_Subterranean_Homesick_Alien_Rockabye_Baby!.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Subterrean Homesick Alien",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/06_Subterrean_Homesick_Alien_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_Homesick_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Homesick (feat. Skrillex & Zacari)",
+      "artist": "DJ Scheme feat. Skrillex & Zacari",
+      "has_synced": true,
+      "path": "select/08_Homesick_(feat._Skrillex_&_Zacari)_DJ_Scheme_feat._Skrillex_&_Zacari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "DJ Scheme",
+      "has_synced": true,
+      "path": "select/09_Homesick_DJ_Scheme.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Subterranean Homesick Alien",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Subterranean_Homesick_Alien_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Subterranean Homesick Blues",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/11_Subterranean_Homesick_Blues_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/12_Homesick_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Homesick - Band Instrumental Rehearsal",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/13_Homesick_-_Band_Instrumental_Rehearsal_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Homesick (Instrumental Band Rehearsal)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/14_Homesick_(Instrumental_Band_Rehearsal)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "Radical Face",
+      "has_synced": false,
+      "path": "select/15_Homesick_Radical_Face.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "DJ Koze feat. Ada",
+      "has_synced": true,
+      "path": "select/16_Homesick_DJ_Koze_feat._Ada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Homesick (feat. Ada)",
+      "artist": "DJ Koze",
+      "has_synced": true,
+      "path": "select/17_Homesick_(feat._Ada)_DJ_Koze.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Homesick for Terror",
+      "artist": "Digital Leather",
+      "has_synced": false,
+      "path": "select/18_Homesick_for_Terror_Digital_Leather.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Homesick",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/19_Homesick_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Homesick",
+      "artist": "Anly",
+      "has_synced": false,
+      "path": "select/pl_01_Homesick_Anly.txt"
+    }
+  ]
+}
